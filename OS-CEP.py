@@ -3,7 +3,7 @@ import time
 import random
 
 
-num_fruits = 20  
+num_fruits = 50  
 # tree = list(range(num_fruits)) 
 tree = list(range(1, num_fruits + 1)) 
 crate = []  
